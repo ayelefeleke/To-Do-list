@@ -25,4 +25,4 @@ JavaScript – for interactivity and logic
 ├── script.js         # JavaScript functionality
 └── README.md         # Project documentation
 # Here is the view 
-![To-Do List Screenshot](screenshot.png)
+![To-Do List Screenshot](Screenshot.png.png)
